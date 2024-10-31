@@ -1,0 +1,9 @@
+{
+  "name": "remove-jquery-from-gravity-forms",
+  "scripts": {
+    "minify": "uglifyjs remove-jquery-from-gravity-forms.js -o remove-jquery-from-gravity-forms.min.js"
+  },
+  "dependencies": {
+    "uglify-js": "^3.17.2"
+  }
+}
